@@ -1,0 +1,8 @@
+{
+  "appId": "com.nimo.app",
+  "appName": "nimo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

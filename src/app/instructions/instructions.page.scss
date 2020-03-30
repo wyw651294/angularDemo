@@ -1,0 +1,22 @@
+.tabCon3 {
+    padding: 15px;
+    .myBtn {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .titleTxt {
+        text-align: center;
+        font-weight: bold;
+        margin-top: 10px;
+        font-size: 1.6rem;
+    }
+    .userTitle {
+        text-align: center;
+        img {
+            max-width: 50%;
+            display: block;
+            margin: 10px auto;
+        }
+    }
+}
